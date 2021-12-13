@@ -1,2 +1,1 @@
-# template-configts
-utilizar para iniciar projetos em typescript
+## Template de config inicial de um app NodeJS em typescript com Eslint e prettier
